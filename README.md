@@ -1,4 +1,4 @@
-# flutter_foundations
+# flutter_foundations learning with https://www.youtube.com/watch?v=ZqEouycRSzY
 
 A new Flutter project.
 
